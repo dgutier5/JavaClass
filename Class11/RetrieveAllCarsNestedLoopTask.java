@@ -1,7 +1,7 @@
 package com.Class11;
 					//HW
-public class ArrayRetrieveCarsTask {
-
+public class RetrieveAllCarsNestedLoopTask {
+	//Retrieve all values from 2D Array w/Nested Loop
 	public static void main(String[] args) {
 		// Create an array of cars: american, german, korean, Italian,
 		//Then retrieve all values from that array.

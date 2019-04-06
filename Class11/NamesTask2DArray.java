@@ -1,6 +1,6 @@
 package com.Class11;
 
-public class Array2DNamesTask {
+public class NamesTask2DArray {
 
 	public static void main(String[] args) {
 		//Create a 2D array that first row will contain 4 names and second row will contain grades.

@@ -21,7 +21,7 @@ public class ArrayIntro {
         array1[3]=40;
         
         //access values
-        System.out.println(array1[0]);
+        System.out.println(array1[0]); //10
         
         int[] numbers=new int[3];
         
@@ -31,7 +31,7 @@ public class ArrayIntro {
         //numbers[3]=20; no error during compilation but error during run time
         //System.out.println(numbers[3]);//ArrayIndexOutOfBoundsException ****Interview Question
         
-        System.out.println(numbers[2]/numbers[0]);//5 15 or 20
+        System.out.println(numbers[2]/numbers[0]);//5 15 or 20  //3
         
         String[] a=new String[3];
         a[0]="Hello";
